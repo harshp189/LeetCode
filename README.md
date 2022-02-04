@@ -10,6 +10,6 @@
 | 0026|[Remove Duplicates from Sorted Array](https://github.com/harshp189/LeetCode/blob/main/Array/RemoveDuplicatesFromSortedArray.java)          |  Easy          |  Array     |
 | 0005|[Longest Palindromic Substring](https://github.com/harshp189/LeetCode/blob/main/String/LongestPalindromicSubstring.java)                   |  Medium        |  String    |
 | 0027|[Remove Element](https://github.com/harshp189/LeetCode/blob/main/Array/RemoveElement.java)                                                 |  Easy          |  Array     |
-|     |         |            |       |
+| 0125|[Valid Palindrome](https://github.com/harshp189/LeetCode/blob/main/String/ValidPalindrome.java)                                            |  Easy          |  String    |
 |     |         |            |       |
 |     |         |            |       |
