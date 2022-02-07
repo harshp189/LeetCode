@@ -13,3 +13,6 @@
 | 0125|[Valid Palindrome](https://github.com/harshp189/LeetCode/blob/main/String/ValidPalindrome.java)                                            |  Easy          |  String    |
 | 0316|[Remove Duplicate Letters](https://github.com/harshp189/LeetCode/blob/main/String/RemoveDuplicateLetters.java)                             |  Medium        |  String    |
 | 0053|[Maximum SubArray](https://github.com/harshp189/LeetCode/blob/main/Array/MaximumSubArray.java)                                             |  Easy          |  Array     |
+| 0020|[Valid Parantheses](https://github.com/harshp189/LeetCode/blob/main/String/ValidParantheses.java)                                          |  Easy          |  String    |
+|     |                             |          |      |
+|     |                                            |            |       |
